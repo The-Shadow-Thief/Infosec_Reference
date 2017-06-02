@@ -10,7 +10,9 @@ Information Security Reference That Doesn't Suck
 
 ##### This page
 * This page has links to *some* of the content on here. This is still very much a  WIP. More content is within the Draft folder. If you want to contribute, feel free.
-* Check out the "What's new" page here: [Link](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Things%20added%20since%20last%20update.md)
+
+
+#### Check out the "What's new" page here: [Link](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/things-added.md)
 
 
 | Offense(mostly) | Defense(mostly) | Governance, Risk, Compliance (GRC)  | Other  |
