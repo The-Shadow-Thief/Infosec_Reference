@@ -1,19 +1,19 @@
 # Infosec_Reference
 Information Security Reference That Doesn't Suck
 
+### Why Do I Care?
+* Because.
+* Links categorized into various sections for all things infosec. 
+* * End goal is for it to be a rich resource of infosec knowledge for anyone to browse through as a jumping off point for various niches within infosec, or as a reference/recall method for other things.
 
-#### Goal:
-
-* Make it informal, list of techniques by grouping, references, better version of RTFM
-* End goal is for it to be a rich resource of infosec knowledge for anyone to browse through as a jumping off point for various niches within infosec, or as a reference/recall method for other things.
-* Something similar to the [MITRE ATT&CK Framework](https://attack.mitre.org/wiki/Main_Page)
 
 ##### This page
 * This page has links to *some* of the content on here. This is still very much a  WIP. More content is within the Draft folder. If you want to contribute, feel free.
 
 
-#### Check out the "What's new" page here: [Link](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/things-added.md)
 
+#### Check out the "What's new" page here: [Link](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/things-added.md)
+* Handy: [MITRE ATT&CK Framework](https://attack.mitre.org/wiki/Main_Page)
 
 | Offense(mostly) | Defense(mostly) | Governance, Risk, Compliance (GRC)  | Other  |
 |:---------------|:------------------:|:------------|:------------|
@@ -41,3 +41,5 @@ Information Security Reference That Doesn't Suck
 [Wireless Networks and RF Devices](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless%20Networks%20%26%20RF.md) | | | 
 
 
+#### Goal:
+* Eventually after some edits, something opposite to the [MITRE ATT&CK Framework](https://attack.mitre.org/wiki/Main_Page)
